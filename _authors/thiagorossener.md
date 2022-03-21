@@ -1,10 +1,10 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
-position: Chief Editor
-bio: Just a developer.
+name: 듀오듀오
+display_name: Jaden Choi
+position: Editor
+bio: Just a 사람.
 github_username: thiagorossener
 facebook_username: thiagorossener
 twitter_username: thiagorossener
