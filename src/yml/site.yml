@@ -19,7 +19,7 @@ menu:
   - title: Feed
     url: /feed.xml
   - title: 리뷰
-    url: /review
+    url: /roductReview/
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
