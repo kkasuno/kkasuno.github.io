@@ -19,6 +19,8 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - title: 제품 리뷰
+    url: /ProductReview/
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
