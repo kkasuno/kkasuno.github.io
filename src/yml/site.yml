@@ -16,8 +16,6 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
   - title: 리뷰
     url: /roductReview/
 email: youremail@test.com
